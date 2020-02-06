@@ -9,7 +9,7 @@
 
 I'm a Brazilian student that has an intrinsic need for knowledge and learn new stuff. I start developing an interest in AI, machine learning, deep learning, and other programming stuff. Now I consider working in something in that area. I believe that only when we start doing something meaningful, we start doing anything. 
 
-I am currently in a physics with scheduled to end in 2021 in *Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)*, one federal university in Brazil with great prestige.
+I am currently studying physics, with scheduled to end in 2021, in *Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)*, one federal university in Brazil with great prestige.
 
 **Background in:** C, C++, Python, R, Machine Learning, Calculus, Linear Algebra.
 
@@ -17,7 +17,7 @@ I am currently in a physics with scheduled to end in 2021 in *Centro Federal de 
 * [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BhwSzwVpvRWSPTgh8rlNj7Q%3D%3D)
 
 ## Projects:
-Here are some of the projects I done. I intend to have everything in english, so as in portuguese:
+Here are some of the projects I've done. I intend to have everything in english, so as in portuguese:
 
 * There's nothing here yet. Soon as I can, this will change :)
 
