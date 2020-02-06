@@ -1,7 +1,10 @@
 [![author](https://img.shields.io/badge/author-JoaoMarcelo99-red.svg)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BXcTZnQfdQBqWXFEJtngesA%3D%3D) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="mesa de trabajo 1.png" >
+  <basefont size="20">
+  <img src="banner_2.1.png" >
+  <a href= "https://www.freepik.com/free-photos-vectors/background">Background vector created by BiZkettE1 - www.freepik.com</a>
+  </basefont>
 </p>
 
 # João Marcelo
