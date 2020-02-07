@@ -18,6 +18,7 @@ I am currently studying physics, with scheduled to end in 2021, in *Centro Feder
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BhwSzwVpvRWSPTgh8rlNj7Q%3D%3D)
+** [Medium](https://medium.com/@joaomarcelocc60)
 
 ## Projects:
 Here are some of the projects I've done. I intend to have everything in english, so as in portuguese:
