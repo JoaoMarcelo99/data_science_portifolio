@@ -23,7 +23,7 @@ I am currently studying physics, with scheduled to end in 2021, in *Centro Feder
 ## Projects:
 Here are some of the projects I've done. I intend to have everything in english, so as in portuguese:
 
-* There's nothing here yet. Soon as I can, this will change :)
+* (PT-BR) Classificador de Autores da Literatura Brasileira: https://github.com/JoaoMarcelo99/data_science_portifolio/blob/master/Modelo_Classificador_Autores_Brasileiros.ipynb
 
 
 ---
