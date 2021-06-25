@@ -25,5 +25,5 @@ Here are some of the projects I've done. I intend to have everything in english,
 
 * (PT-BR) Análise da Escrita de Autores da Literatura Brasileira: https://github.com/JoaoMarcelo99/data_science_portifolio/blob/master/Analise_Autores_Brasileiros.ipynb
 
-* (EN) Using Statistics and Python to solve some problems:
+* (EN) Using Statistics and Python to solve some problems: https://github.com/JoaoMarcelo99/data_science_portifolio/blob/master/Statistical_Exercises.ipynb
 ---
